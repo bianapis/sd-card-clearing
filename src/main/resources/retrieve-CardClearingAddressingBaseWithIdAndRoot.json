@@ -1,0 +1,12 @@
+{
+  "participantAcquirerBankReference" : "PABR793130",
+  "cardTransactionProductInstanceReference" : "CTPIR771402",
+  "cardTransactionIssuingBankReference" : "CTIBR798160",
+  "cardTransactionNetworkReference" : "CTNR748190",
+  "participantIssuerBankReference" : "PIBR792034",
+  "cardClearingProcessReference" : "CCPR708257",
+  "cardClearingAddressingTaskReference" : "CCATR758847",
+  "cardTransactionRecordReference" : "CTRR760314",
+  "cardTransactionMerchantAcquiringBankReference" : "CTMABR748137",
+  "cardClearingAddressingTaskRecord" : {}
+}

@@ -1,0 +1,21 @@
+{
+  "cardTransactionProductInstanceReference" : "CTPIR771402",
+  "cardTransactionMerchantReference" : "CTMR762550",
+  "cardTransactionInterchargeFee" : "USD 250",
+  "cardTransactionIssuingBankReference" : "CTIBR798160",
+  "cardClearingReconciliationTaskRecord" : {},
+  "cardClearingReconciliationTaskReference" : "CCRTR783383",
+  "cardTransactionType" : "cardTransactionType",
+  "cardTransactionMerchantAcquiringBankReference" : "CTMABR748137",
+  "cardTransactionLocationReference" : "CTLR742130",
+  "cardTransactionCurrency" : "USD",
+  "cardTransactionAmountType" : "Original amount",
+  "cardTransactionFXConversionCharge" : "USD 250",
+  "cardTransactionNetworkReference" : "CTNR748190",
+  "cardTransactionProductServiceReference" : "CTPR731519",
+  "cardTransactionDateTime" : "09-22-2018",
+  "cardClearingProcessReference" : "CCPR708257",
+  "cardTransactionRecordReference" : "CTRR760314",
+  "cardTransactionAmount" : "USD 250",
+  "cardTransactionAuthorizationRecord" : {}
+}
